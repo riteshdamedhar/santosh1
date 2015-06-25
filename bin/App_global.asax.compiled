@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="8" virtualPath="/MVPCITMS/global.asax" hash="5361fb97" filehash="1fddef0b7de1" flags="150000" assembly="App_global.asax" type="ASP.global_asax">
+    <filedeps>
+        <filedep name="/MVPCITMS/global.asax" />
+    </filedeps>
+</preserve>
