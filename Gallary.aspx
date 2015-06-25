@@ -1,4 +1,4 @@
-﻿<%@ page title="" language="C#" masterpagefile="~/MasterPage.master" autoeventwireup="true" inherits="Gallary, App_Web_hf21mswt" %>
+﻿<%@ page title="" language="C#" masterpagefile="~/MasterPage.master" autoeventwireup="true" inherits="Gallary, App_Web_hoy1mmxx" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
 </asp:Content>
@@ -14,7 +14,7 @@
                      <asp:Repeater ID="Repeater1" runat="server">
                      <ItemTemplate>
    
-                        <a class="prettyphoto col-md-3 col-sm-3 col-xs-6" rel="prettyPhoto[gallery]" title="Lorem ipsum dolor sit amet" href="<%# Eval("Path") %>"><img class="img-responsive img-thumbnail" src="http://admin.gbbindustries.com/<%# Eval("path") %>" alt="" /></a>
+                        <a class="prettyphoto col-md-3 col-sm-3 col-xs-6" rel="prettyPhoto[gallery]" title="Lorem ipsum dolor sit amet" href="<%# Eval("Path") %>"><img class="img-responsive img-thumbnail" src="http://demoapp2.apphb.com/<%# Eval("path") %>" alt="" /></a>
                      
                     </ItemTemplate>
            
